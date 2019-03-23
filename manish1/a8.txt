@@ -1,0 +1,11 @@
+-rw-rw-r-- 1 vagrant vagrant  0 Mar 23 11:37 a9.txt
+-rw-rw-r-- 1 vagrant vagrant  0 Mar 23 11:37 a8.txt
+-rw-rw-r-- 1 vagrant vagrant  0 Mar 23 11:37 a7.txt
+-rw-rw-r-- 1 vagrant vagrant  0 Mar 23 11:37 a6.txt
+-rw-rw-r-- 1 vagrant vagrant  0 Mar 23 11:37 a5.txt
+-rw-rw-r-- 1 vagrant vagrant  0 Mar 23 11:37 a4.txt
+-rw-rw-r-- 1 vagrant vagrant  0 Mar 23 11:37 a3.txt
+-rw-rw-r-- 1 vagrant vagrant 19 Mar 23 11:37 a2.txt
+-rw-rw-r-- 1 vagrant vagrant  0 Mar 23 11:37 a1.txt
+-rw-rw-r-- 1 vagrant vagrant 32 Mar 23 11:37 a10.txt
+vagrant@batch-devopsplus-3:~/manishfirst/manish1$ vi a8.txt
