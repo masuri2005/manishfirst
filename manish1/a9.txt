@@ -1,0 +1,1 @@
+vagrant@batch-devopsplus:~/gitclient1/manishfirst/manish1
