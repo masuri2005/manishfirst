@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 vagrant@batch-devopsplus-3:~/manishfirst/manish1$ ls -ltr
+=======
+vagrant@batch-devopsplus:~/gitclient1/manishfirst/manish1
+>>>>>>> 84a77c5302a54e7e083a0c455c6256ebd79f2898
