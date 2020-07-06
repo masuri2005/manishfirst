@@ -1,7 +1,4 @@
 This is to test the git hub code version
-
 New Line added from the masuri/manishirst
 New Line added after commit from other project
-=======
-This is added from masuri2005__manishsecondproj
-
+git commit -m "masuri2005_manishfirst_1"
